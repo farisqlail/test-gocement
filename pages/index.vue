@@ -727,7 +727,7 @@ export default {
   border-radius: 50%;
   display: block;
   position: absolute;
-  left: calc(45% - 47px);
+  left: calc(40% - 47px);
   top: calc(50% - 47px);
   overflow: hidden;
 }
